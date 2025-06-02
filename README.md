@@ -106,4 +106,11 @@ Once the server is running, you can access the sentiment analysis API.
 ### 🧪 Test Passed
 ![Test Passed](images/testpassedin3s.png)
 
+## 📹 Sentiment Analysis with Hugging Face
+
+[![Watch the Tutorial](https://img.youtube.com/vi/h3nHjQHByNA/0.jpg)](https://www.youtube.com/watch?v=h3nHjQHByNA)
+
+Click the thumbnail above to watch the full video on YouTube.
+
+
 
