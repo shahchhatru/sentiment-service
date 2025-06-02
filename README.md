@@ -2,7 +2,19 @@
 
 A powerful sentiment analysis tool built using Huggingface Transformers. This project classifies text into **positive**, **negative**, or **neutral** sentiments using pre-trained transformer models like BERT. It is designed for developers, researchers, and anyone interested in analyzing the sentiment of textual data.
 
----
+---Resetting  password for 650000011894980
+7:55
+Compliance Automation
+650000011894980  has been locked.
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼Compliance Automation
+Compliance AutomationAPP  8:52 AM
 
 ## ✨ Features
 
@@ -42,8 +54,8 @@ Ensure the following tools are installed on your machine:
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/<your-username>/huggingface-sentiment-analysis.git
-cd huggingface-sentiment-analysis
+git clone https://github.com/shahchhatru/sentiment-service.git
+cd sentiment-service
 ```
 
 2. **Install Dependencies:**
@@ -83,7 +95,7 @@ Once the server is running, you can access the sentiment analysis API.
 
 ### 📡 API Endpoint
 
-**POST** `/predict`
+**POST** `/analyze`
 
 ### 📝 Request Body
 
